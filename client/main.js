@@ -9,8 +9,8 @@ import App from './components/app'
 const routes = (
     <Router history={browserHistory}>
         <Route path="/" component={App}>
-            <Route path="bins" components={BinsMain}>
-            </Route>
+            <IndexRoute component={BinsList}/>
+            <Route path="bins/:binId" components={BinsMain} />
         </Route>
     </Router>
 );

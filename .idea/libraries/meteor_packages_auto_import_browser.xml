@@ -118,9 +118,12 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict-tests.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.2.5/web.browser/match.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.6/web.browser/rate-limit.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.11/web.browser/service_configuration_common.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/style.css" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.2.5/web.browser/match_test.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.2.5/web.browser/isPlainObject.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle-tests.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.8/web.browser/migration.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/sha/1.0.9/web.browser/sha256.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.10/web.browser/hook.js" />
@@ -296,9 +299,12 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict-tests.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.2.5/web.browser/match.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/rate-limit/1.0.6/web.browser/rate-limit.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/service-configuration/1.0.11/web.browser/service_configuration_common.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/style.css" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.2.5/web.browser/match_test.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/check/1.2.5/web.browser/isPlainObject.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle-tests.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.8/web.browser/migration.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/sha/1.0.9/web.browser/sha256.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/callback-hook/1.0.10/web.browser/hook.js" />
